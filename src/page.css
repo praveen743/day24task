@@ -1,0 +1,16 @@
+*{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+
+#container1{
+    margin-top: 5px;
+}
+
+input{
+    background-color: white;
+}
+
+.form-check-labe{
+    font-weight: normal;
+}
